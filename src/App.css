@@ -5,6 +5,17 @@
   text-align: center;
 }
 
+.featured {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  border: 1px dotted white;
+  background-color: burlywood;
+  padding: 0px 20px 20px 20px;
+  list-style: none;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
